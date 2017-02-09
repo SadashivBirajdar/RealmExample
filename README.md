@@ -1,4 +1,4 @@
-#Realm Android Example
+#Realm Example
 
 ##Description
-[Realm][realm] is a mobile database. 
+[Realm] is a mobile database. 
