@@ -1,4 +1,4 @@
 #Realm Example
 
 ##Description
-[Realm] is a mobile database. 
+Realm is a mobile database. 
